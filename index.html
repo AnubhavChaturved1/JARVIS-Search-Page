@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <title>Jarvis-Search</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <video autoplay muted loop>
+                <source src="\bg.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <h1 class="glow-text">WELCOME SIR</h1>
+            <div class="search-bar">
+                <input type="text" id="search-query" placeholder="Search...">
+                <button id="search-button" class="button-1">Search</button>
+                <div id="search-suggestions"></div>
+            </div>
+            <div class="typing-animation">
+                <p class="typing-text"></p>
+            </div>
+            <audio id="typing-sound" src="keyboard-typing-5997.mp3"></audio>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
