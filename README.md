@@ -1,6 +1,6 @@
 # JARVIS Search Page
 
-![JARVIS Search Page](https://example.com/jarvis_search_page_screenshot.png)
+![JARVIS Search Page](https://github.com/AnubhavChaturved1/JARVIS-Search-Page/blob/main/Screenshot%202024-03-24%20183806.png)
 
 Welcome to JARVIS Search Page, your AI-powered search companion for quick and efficient web exploration.
 
@@ -9,11 +9,6 @@ JARVIS Search Page provides an intuitive interface to search the web efficiently
 
 ## Usage
 Simply enter your query in the search bar and hit enter or click the search button to retrieve relevant search results.
-
-## View Counts
-- Screenshot 1: 100 views
-- Screenshot 2: 95 views
-- Screenshot 3: 110 views
 
 ## Installation
 No installation required. JARVIS Search Page is accessible directly from your web browser.
