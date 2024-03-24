@@ -2,6 +2,8 @@
 
 ![JARVIS Search Page](https://github.com/AnubhavChaturved1/JARVIS-Search-Page/blob/main/Screenshot%202024-03-24%20183806.png)
 
+Live Demo: [JARVIS Search Page](https://jarvis-search.netlify.app/)
+
 Welcome to JARVIS Search Page, your AI-powered search companion for quick and efficient web exploration.
 
 ## Description
@@ -20,4 +22,4 @@ Contributions are welcome! Feel free to submit pull requests or raise issues to 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-[Anubhav Chaturvdi]
+Anubhav Chaturvdi
